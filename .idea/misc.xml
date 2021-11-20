@@ -3,9 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/MyFirstApp/app/src/main/res/layout/acalculator.xml" value="0.25" />
         <entry key="..\:/MyFirstApp/app/src/main/res/layout/activity_main.xml" value="0.22456140350877193" />
         <entry key="..\:/MyFirstApp/app/src/main/res/layout/activity_main2.xml" value="0.2" />
         <entry key="..\:/MyFirstApp/app/src/main/res/layout/activity_main3.xml" value="0.12824074074074074" />
+        <entry key="..\:/MyFirstApp/app/src/main/res/layout/activity_main4.xml" value="0.12824074074074074" />
+        <entry key="..\:/MyFirstApp/app/src/main/res/layout/activity_main5.xml" value="0.12824074074074074" />
+        <entry key="..\:/MyFirstApp/app/src/main/res/layout/calculator.xml" value="0.25" />
       </map>
     </option>
   </component>
